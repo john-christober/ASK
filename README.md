@@ -59,7 +59,7 @@ plt.show()
 ![image](https://github.com/user-attachments/assets/538eb842-d844-4182-aca4-a9847579b851)
 
 # Hardware experiment output waveform
-![how](https://github.com/user-attachments/assets/ede15d08-c14a-4699-b962-cac68e78b09d)
+![WhatsApp Image 2025-04-22 at 22 29 49_98d8ed35](https://github.com/user-attachments/assets/bbb5bc3d-23bc-4f6c-8824-6f9a26e3cf51)
 
 # Results
 The simulation of amplitude shift keying(ASK) was successfully performed. The modulated and demodulated waveforms were observed, confirming accurate transmission and recovery of binary data using amplitude variations.
